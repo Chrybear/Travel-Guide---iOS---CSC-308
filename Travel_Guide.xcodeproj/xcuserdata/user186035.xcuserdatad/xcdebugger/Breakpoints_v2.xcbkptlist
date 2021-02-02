@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8EB7E4EB-A63A-4B1A-8045-E2BC87D2FF7E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8919B358-8EEB-4B52-98E7-53407985A650"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Travel_Guide/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8919B358-8EEB-4B52-98E7-53407985A650 - 280e7fc358c090f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Travel_Guide.ViewController.curAttr.getter : Swift.String"
+                  moduleName = "Travel_Guide"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user186035/Documents/Travel%20Guide/Travel_Guide/Travel_Guide/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "8919B358-8EEB-4B52-98E7-53407985A650 - 1064f2c0cba980c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Travel_Guide.ViewController.curAttr.setter : Swift.String"
+                  moduleName = "Travel_Guide"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user186035/Documents/Travel%20Guide/Travel_Guide/Travel_Guide/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "8919B358-8EEB-4B52-98E7-53407985A650 - 6800cb6754f1e70d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Travel_Guide.ViewController.curAttr.modify : Swift.String"
+                  moduleName = "Travel_Guide"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user186035/Documents/Travel%20Guide/Travel_Guide/Travel_Guide/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "8919B358-8EEB-4B52-98E7-53407985A650 - ac82f355ae318ac8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Travel_Guide.ViewController.curAttr.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Travel_Guide"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user186035/Documents/Travel%20Guide/Travel_Guide/Travel_Guide/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "8919B358-8EEB-4B52-98E7-53407985A650 - e6f826ad63863bcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Travel_Guide.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Travel_Guide.ViewController"
+                  moduleName = "Travel_Guide"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user186035/Documents/Travel%20Guide/Travel_Guide/Travel_Guide/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "409">
+               </Location>
+               <Location
+                  uuid = "8919B358-8EEB-4B52-98E7-53407985A650 - 92cb8384cc2dfb1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Travel_Guide.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Travel_Guide.ViewController&gt;"
+                  moduleName = "Travel_Guide"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user186035/Documents/Travel%20Guide/Travel_Guide/Travel_Guide/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "350">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
