@@ -56,6 +56,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
+                        <outlet property="attrac_menu" destination="kWO-9b-rLE" id="fqM-an-SWV"/>
                         <outlet property="cur_img" destination="OLE-wM-HQS" id="CSO-TK-LOj"/>
                         <outlet property="cur_info" destination="yCe-Zf-3cQ" id="moj-O7-teO"/>
                     </connections>

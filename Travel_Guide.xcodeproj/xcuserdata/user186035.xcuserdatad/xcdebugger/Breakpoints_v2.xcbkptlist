@@ -8,7 +8,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "8919B358-8EEB-4B52-98E7-53407985A650"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Travel_Guide/ViewController.swift"
@@ -92,7 +92,7 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
                   endingLineNumber = "14"
-                  offsetFromSymbolStart = "409">
+                  offsetFromSymbolStart = "547">
                </Location>
                <Location
                   uuid = "8919B358-8EEB-4B52-98E7-53407985A650 - 92cb8384cc2dfb1d"
@@ -107,7 +107,7 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
                   endingLineNumber = "14"
-                  offsetFromSymbolStart = "350">
+                  offsetFromSymbolStart = "488">
                </Location>
             </Locations>
          </BreakpointContent>
